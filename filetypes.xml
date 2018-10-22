@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="first.feature" type="PLAIN_TEXT" />
       <mapping pattern="certc_cscm.csv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
