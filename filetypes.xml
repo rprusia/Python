@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="feature" type="Cucumber" />
       <mapping pattern="first.feature" type="PLAIN_TEXT" />
       <mapping pattern="certc_cscm.csv" type="PLAIN_TEXT" />
+      <removed_mapping ext="feature" approved="true" type="Substeps" />
     </extensionMap>
   </component>
 </application>
