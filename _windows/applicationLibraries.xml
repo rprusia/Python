@@ -1,6 +1,6 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 (1) interpreter library">
+    <library name="Python 3.7 interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
         <root url="file://C:/Program Files (x86)/Python37-32/Lib" />
