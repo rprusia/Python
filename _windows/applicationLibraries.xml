@@ -1,15 +1,12 @@
 <application>
   <component name="libraryTable">
-    <library name="Python 3.7 (CodeWars) interpreter library">
+    <library name="Python 3.7 (1) interpreter library">
       <CLASSES>
         <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
         <root url="file://C:/Program Files (x86)/Python37-32/Lib" />
         <root url="file://C:/Program Files (x86)/Python37-32" />
-        <root url="file://C:/Training/CodeWars/venv" />
-        <root url="file://C:/Training/CodeWars/venv/Lib/site-packages" />
-        <root url="jar://C:/Training/CodeWars/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://C:/Training/CodeWars/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/217784773" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-1384526572" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
@@ -22,11 +19,8 @@
         <root url="file://C:/Program Files (x86)/Python37-32/DLLs" />
         <root url="file://C:/Program Files (x86)/Python37-32/Lib" />
         <root url="file://C:/Program Files (x86)/Python37-32" />
-        <root url="file://C:/Training/CodeWars/venv" />
-        <root url="file://C:/Training/CodeWars/venv/Lib/site-packages" />
-        <root url="jar://C:/Training/CodeWars/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
-        <root url="file://C:/Training/CodeWars/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
-        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/217784773" />
+        <root url="file://C:/Program Files (x86)/Python37-32/Lib/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.2/system/python_stubs/-1384526572" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
