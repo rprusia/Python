@@ -10,6 +10,10 @@
           <option name="url" value="http://tfs-glo-lexisadvance.visualstudio.com" />
           <option name="userName" value="prusiarl@legal@regn.net" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yai333/Selenium-UI-testing-with-AWS-Lambda-Layers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Automation" />
